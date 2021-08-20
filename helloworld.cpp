@@ -1,7 +1,7 @@
-// Author: <Enter name here> 
-// Email: <Enter email here> 
-// Section #: <Enter section here>
-// Copyright 2021 <Enter Name Here>
+// Author: Ethan Adams 
+// Email: epadams@email.sc.edu 
+// Section #: 001 
+// Copyright 2021 Ethan Adams 
 // Modified from template code @coleca24 GitHub
 #include <gtest/gtest.h>
 #include <iostream>
